@@ -6,7 +6,7 @@
 ## REQUIREMENT
 
 * node (version v22..)
-* node-tcp 
+* node-tcp (https://github.com/nubosoftware/node-tcp/)
 
 ##
 
