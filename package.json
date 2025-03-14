@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "dependencies": {
+    "node-tcp": "^1.0.14"
+  }
+}

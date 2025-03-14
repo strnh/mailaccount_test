@@ -1,0 +1,7 @@
+{"account": [ 
+  { "id":  "test@example.net", "password": "aaabbbccc333"},
+  { "id":  "test2@example.net", "password": "foobarbaz"}
+]
+}
+
+
