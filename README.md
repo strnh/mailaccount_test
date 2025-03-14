@@ -5,7 +5,8 @@
 
 ## REQUIREMENT
 
-* node (version v22..) 
+* node (version v22..)
+* node-tcp 
 
 ##
 
