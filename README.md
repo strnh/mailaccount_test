@@ -5,9 +5,9 @@
 
 ## REQUIREMENT
 
-* [swaks]('https://https://github.com/jetmore/swaks')
+* [swaks](https://github.com/jetmore/swaks)
 * node (version v22..)
-* [node-tcp]('https://github.com/nubosoftware/node-tcp/')
+* [node-tcp](https://github.com/nubosoftware/node-tcp)
 
 ## Files
 
